@@ -7,7 +7,7 @@ let amiCookie = {
    * @param {String} name 属性名
    */
   get: function (name: any) {
-    
+    console.log(name)
   },
   /**
    * TODO: 实现 cookie 添加方法

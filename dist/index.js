@@ -13,6 +13,7 @@
          * @param {String} name 属性名
          */
         get: function (name) {
+            console.log(name);
         },
         /**
          * TODO: 实现 cookie 添加方法
